@@ -1,0 +1,21 @@
+{
+    "name": "yrssoft/yii2-kindeditor",
+    "description": "kindeditor for yiiframework of version 2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "杨瑞生",
+            "email": "yrsemail@163.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yrssoft\\kindeditor\\": ""
+        }
+    }
+}
